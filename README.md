@@ -53,7 +53,7 @@ task-management-backend
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/task-management-backend.git
+   git clone https://github.com/anshikanegi280/task-management-backend.git
    ```
 
 2. Navigate to the project directory:
